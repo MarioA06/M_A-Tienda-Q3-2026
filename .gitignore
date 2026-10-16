@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Firebase - credenciales privadas ###
+/src/main/resources/firebase/
